@@ -1,0 +1,13 @@
+fazer uma ia para o if que auxilia em perguntas
+ ex: qual a grade curricular do 1 ano de informatica do ifpr cascavel
+      
+     o que eu posso fazer segunda depois da aula 
+
+     onde eu posso encontrar o professor yx após a aula
+
+=============================================================================
+
+calculadora
+
+=============================================================================
+
