@@ -11,3 +11,13 @@ calculadora
 
 =============================================================================
 
+
+joguinho da cobrinha
+
+ shuffle em 3 numeros [0,1,0]
+
+se jogador tocar em 1 game over
+
+senao continuar
+
+todo segundo anda um
